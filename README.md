@@ -1,3 +1,4 @@
-#### IN ACTION
+#### Final Project Link Below
+http://exodera.github.io/tabs
 
-[Portfolio](https://gatsby-strapi-portfolio-project.netlify.app/)
+
